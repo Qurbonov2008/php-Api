@@ -1,7 +1,7 @@
 <?php
-$host = 'server3.ahost.uz';
-$dbname = 'phpdeve1_lara308';
-$username = 'phpdeve1_lara308';
+$host = 'localhost';
+$dbname = 'api';
+$username = 'root';
 $password = '2008Ozodbek!@#$';
 
 try {
